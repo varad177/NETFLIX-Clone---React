@@ -1,0 +1,49 @@
+.SignupScreen{
+    max-width: 300px;
+    padding: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(0, 0, 0, 0.75);
+    border-radius: 20px;
+
+}
+
+.SignupScreen > form{
+    display: grid;
+    flex-direction: column;
+}
+
+.SignupScreen > form > input {
+    outline-width: 0;
+    height: 40px;
+    margin-bottom: 14px;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 15px;
+}
+
+.SignupScreen > form > button  {
+    padding: 16px 20px;
+    font-size: 1rem;
+    color: #fff;
+    border-radius: 5px;
+    background-color: #E50914;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.signupscreen_gray{
+margin: 0.5rem;
+    font-size: 12px;
+    color: gray;
+}
+.signupscreen_link:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    
+
+}
+.nettonet{
+    margin-top: 0.8rem;
+}
