@@ -1,6 +1,8 @@
 # NETFLIX-Clone---React
 This is the clone of the famous streaming service app called NETFLIX , with signup , signin and login functionality. This clone totally made in the React library and firebase is used as the backend to the users data 
 
+Link👉 https://64b2d98fbebe492d6e0a8cbd--preeminent-begonia-d484f2.netlify.app/
+
 # output
 
 #first page
